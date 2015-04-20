@@ -1,0 +1,16 @@
+This is a Sample application created from the original RollingSpiderPiloting from Parrot (https://github.com/ARDroneSDK3/Samples)
+
+This application allows you to pilot your Rolling Spider using a Bluetooth GamePad controller
+
+Tested with SteelSeries Stratus Gaming Controller (http://steelseries.com/products/controllers/steelseries-stratus-wireless-gaming-controller)
+
+
+==================
+Purpose of RollingSpiderPiloting
+==================
+
+This sample shows how to send and receive commands to communicate with a Parrot drone. The example is based on the Rolling Spider used with iOS device.
+
+This example enables you to **discover** and **connect** to a RollingSpider and **send and receive commands** to pilot it and get its battery level.
+
+These sample sources are a Xcode project building for iOS devices.
